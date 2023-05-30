@@ -1,0 +1,7 @@
+Toy{id=3, toyName='Кукла', quantity=1, dropFrequency=89}
+Toy{id=1, toyName='Конструктор', quantity=1, dropFrequency=79}
+Toy{id=3, toyName='Кукла', quantity=1, dropFrequency=46}
+Toy{id=1, toyName='Конструктор', quantity=1, dropFrequency=96}
+Toy{id=2, toyName='Машинка', quantity=2, dropFrequency=95}
+Toy{id=1, toyName='Конструктор', quantity=1, dropFrequency=81}
+Toy{id=1, toyName='Конструктор', quantity=1, dropFrequency=36}
